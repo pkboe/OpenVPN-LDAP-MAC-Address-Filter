@@ -26,4 +26,4 @@ chmod 664 /var/log/openvpn.log
 
 
 ## Python Script
-Ensure you have Python 3.6 in your bin folder or create a symlink to it. Then, create the `mac-check.py` script:
+Ensure you have Python 3.6 in your bin folder or create a symlink to it. Then, create the `openvpn_login_checker.py` script:
