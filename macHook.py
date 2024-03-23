@@ -55,7 +55,6 @@ with open(db_file, 'r') as db:
                     login = True
    
 if login:
-    print('GG')
     sys.exit(0)
 else:
     sys.exit(1)
